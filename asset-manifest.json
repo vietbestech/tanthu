@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tanthu/static/css/main.bfce482b.css",
+    "main.js": "/tanthu/static/js/main.38c851ec.js",
+    "static/css/940.31421c90.chunk.css": "/tanthu/static/css/940.31421c90.chunk.css",
+    "static/js/940.b6500724.chunk.js": "/tanthu/static/js/940.b6500724.chunk.js",
+    "static/css/982.7dfc76f8.chunk.css": "/tanthu/static/css/982.7dfc76f8.chunk.css",
+    "static/js/982.c825a2bb.chunk.js": "/tanthu/static/js/982.c825a2bb.chunk.js",
+    "static/js/870.85dd3389.chunk.js": "/tanthu/static/js/870.85dd3389.chunk.js",
+    "static/js/389.94a90d3a.chunk.js": "/tanthu/static/js/389.94a90d3a.chunk.js",
+    "static/js/374.ade52f7c.chunk.js": "/tanthu/static/js/374.ade52f7c.chunk.js",
+    "index.html": "/tanthu/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.bfce482b.css",
+    "static/js/main.38c851ec.js"
+  ]
+}
